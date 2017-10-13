@@ -1,1 +1,2 @@
 # iosMobileDeviceManager
+[x] test
